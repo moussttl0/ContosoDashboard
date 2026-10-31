@@ -4,11 +4,15 @@
         "speckit.specify": true,
         "speckit.plan": true,
         "speckit.tasks": true,
-        "speckit.implement": true
+        "speckit.implement": true,
+        "speckit.clarify": true,
+        "speckit.analyze": true,
+        "speckit.checklist": true,
+        "speckit.converge": true,
+        "speckit.taskstoissues": true
     },
     "chat.tools.terminal.autoApprove": {
         ".specify/scripts/bash/": true,
         ".specify/scripts/powershell/": true
     }
 }
-
